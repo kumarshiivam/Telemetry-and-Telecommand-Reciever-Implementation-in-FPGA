@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../reciever_side_project_4.srcs/sources_1/new/ccsds_telecommand_encoder.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/ccsds_telemetry_decoder.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/ground_segment.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/rf_receiver_telemetry.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/rf_transmitter_telecommand.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/telecommand_subcarrier_modulator.v" \
+"../../../../reciever_side_project_4.srcs/sources_1/new/telemetry_subcarrier_demodulator.v" \
+"../../../../reciever_side_project_4.srcs/sim_1/new/ground_segment_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

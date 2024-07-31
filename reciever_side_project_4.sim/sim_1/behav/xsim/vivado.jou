@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Jun 22 12:51:57 2024
+# Process ID: 23032
+# Current directory: C:/Users/kumar/Downloads/reciever_side_project_4/reciever_side_project_4.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21280 C:\Users\kumar\Downloads\reciever_side_project_4\reciever_side_project_4.sim\sim_1\behav\xsim\ground_segment_tb_behav.wdb
+# Log file: C:/Users/kumar/Downloads/reciever_side_project_4/reciever_side_project_4.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/kumar/Downloads/reciever_side_project_4/reciever_side_project_4.sim/sim_1/behav/xsim\vivado.jou
+# Running On: Kumar_Shivam, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 6, Host memory: 8315 MB
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\kumar\Downloads\reciever_side_project_4\reciever_side_project_4.sim\sim_1\behav\xsim\ground_segment_tb_behav.wdb}
